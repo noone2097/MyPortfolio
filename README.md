@@ -1,1 +1,1 @@
-shoko-void.github.io.
+shoko-void.github.io./MyPortfolio
